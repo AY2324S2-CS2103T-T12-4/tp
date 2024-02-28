@@ -1,5 +1,6 @@
 package seedu.address.commons.core;
 
+
 /**
  * Container for user visible messages.
  */
